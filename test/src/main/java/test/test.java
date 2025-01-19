@@ -7,7 +7,7 @@ public class test {
 		System.out.println("코드 다시 추가해서 push해보자");
 		System.out.println("왜 안되지?");
 		System.out.println("다시 켜서 해보는 중");
-		System.out.println("깃헙에서 코드 바꿨지롱")
+		System.out.println("깃헙에서 코드 바꿨지롱");
 	}
 
 }
